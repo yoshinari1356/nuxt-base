@@ -1,4 +1,4 @@
-# DesignPortfolioNuxt
+# Nuxt
 
 > My flawless Nuxt.js project
 
